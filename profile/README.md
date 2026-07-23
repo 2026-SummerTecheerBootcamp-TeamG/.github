@@ -47,12 +47,12 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 <!-- TODO: 스크린샷 2~3장 (가로로 나란히 두려면 <img width="32%"> 반복) -->
 
 ### 여행 계획 요청 (자연어 입력)
-<img width="1920" height="1452" alt="image" src="https://github.com/user-attachments/assets/ec54c1a5-9cbd-4586-8438-d13d694d11fa" />
+<img width="1920" height="1452" alt="image" src="https://github.com/user-attachments/assets/229ca468-040a-4d65-bb25-34d580325bbd" />
 
 <!-- TODO: 스크린샷 -->
 
 ### 일정 생성 결과
-<img width="1920" height="7221" alt="image" src="https://github.com/user-attachments/assets/e9649a4d-3bc5-4fc1-ac6d-4d9e2d85b5a7" />
+<img width="1920" height="3653" alt="image" src="https://github.com/user-attachments/assets/0b8a8d72-3f5d-4230-a678-ab9a441462af" />
 
 <!-- TODO: 스크린샷 -->
 
