@@ -41,7 +41,7 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 <!-- TODO: 전체 데모 영상 — YouTube 링크 또는 GIF
      YouTube면: [![Demo Video](썸네일URL)](유튜브URL) -->
 
-[![Demo Video]https://youtu.be/Z-1bDFG2Alw]
+[![Demo Video]()(https://youtu.be/Z-1bDFG2Alw)
 
 <br/>
 
