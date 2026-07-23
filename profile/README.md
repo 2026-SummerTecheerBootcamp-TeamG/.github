@@ -74,7 +74,7 @@ https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
 <br/>
 
 # API
-<img width="1920" height="3445" alt="image" src="https://github.com/user-attachments/assets/4ffb1145-0ab6-4b45-9142-c45d8886ed2c" />
+<img width="1463" height="1966" alt="image" src="https://github.com/user-attachments/assets/b75296d2-25a4-461e-8a2d-f30d96ccdfab" />
 
 <br/>
 <br/>
