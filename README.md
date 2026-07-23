@@ -40,7 +40,7 @@ https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
 
 
 
-### 메인 페이지
+### 온보딩 페이지
 <img width="1228" height="2748" alt="image" src="https://github.com/user-attachments/assets/62b768b8-a663-4d01-9cc6-55aca13bbc3d" />
 <img width="1228" height="991" alt="image" src="https://github.com/user-attachments/assets/08e6d70a-0715-408a-88f9-6be6a522a1b5" />
 <img width="1228" height="991" alt="image" src="https://github.com/user-attachments/assets/9f5834cc-f563-4ddb-9103-d5541cc50ec9" />
