@@ -30,9 +30,11 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 - **대화형 수정**: "둘째 날 일정 좀 여유롭게 바꿔줘" — 대화로 일정 편집
 
 <!-- TODO: 배포 URL 생기면 여기에 -->
-**Service**: https://www.tripcanvas.cloud/
+**Service URL**
+https://www.tripcanvas.cloud/
 <!-- TODO: Medium/기술 블로그 회고 글 링크 -->
-**Medium**: https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
+**Medium**
+https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
 
 <br/>
 
