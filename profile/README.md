@@ -105,7 +105,7 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge) |
 | **AI / External API** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white) ![LiteAPI](https://img.shields.io/badge/LiteAPI-6C63FF?style=for-the-badge) ![SerpApi](https://img.shields.io/badge/SerpApi-000000?style=for-the-badge) |
 | **DevOps / Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge) ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
-| **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F5DC00?style=for-the-badge&logo=grafana&logoColor=black) ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black) ![cAdvisor](https://img.shields.io/badge/cAdvisor-425066?style=for-the-badge) |
+| **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F5DC00?style=for-the-badge&logo=grafana&logoColor=black) ![cAdvisor](https://img.shields.io/badge/cAdvisor-425066?style=for-the-badge) |
 | **ETC** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |
 
 <br/>
@@ -113,12 +113,13 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 # Monitoring
 
 ### Prometheus & Grafana
+<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/7bc5064a-f72e-4d0f-abb5-9cc49a2e2bb1" />
 
 <!-- TODO: Django Metrics 대시보드 캡처 -->
 
 <!-- TODO: Celery Worker Metrics 대시보드 캡처 -->
 
-### Jaeger (Distributed Tracing)
+<!-- ### Jaeger (Distributed Tracing) -->
 
 <!-- TODO: 에이전트 파이프라인 trace 캡처 — 우리 프로젝트 차별점이라 섹션 분리 -->
 
@@ -129,9 +130,9 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 <!-- TODO: 인원수에 맞게 열 추가/삭제. 프로필 사진은 GitHub 아바타 URL 쓰면 편함:
      https://github.com/깃허브아이디.png -->
 
-| Name | 이름1 | 이름2 | 이름3 | 이름4 | 이름5 | 이름6 |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Profile** | <img src="" width="100" height="100" /> | <img src="" width="100" height="100" /> | <img src="" width="100" height="100" /> | <img src="" width="100" height="100" /> | <img src="" width="100" height="100" /> | <img src="" width="100" height="100" /> |
-| **Role** | Backend | Backend | Frontend | Frontend | DevOps | Leader |
-| **GitHub** | [@id1](https://github.com/) | [@id2](https://github.com/) | [@id3](https://github.com/) | [@id4](https://github.com/) | [@id5](https://github.com/) | [@id6](https://github.com/) |
+| Name | 이윤서 | 이예빈 | 김형수 | 민재헌 |
+| --- | --- | --- | --- | --- |
+| **Profile** | <img src="https://ca.slack-edge.com/T0BDGGPG7V3-U0BD8M7T1LP-e4e7a9f12c60-512" width="100" height="100" /> | <img src="https://ca.slack-edge.com/T0BDGGPG7V3-U0BDRV5DR4Z-e140a3a94114-512" width="100" height="100" /> | <img src="https://ca.slack-edge.com/T0BDGGPG7V3-U0BDN37QH5L-5d3a783c73af-512" width="100" height="100" /> | <img src="https://ca.slack-edge.com/T0BDGGPG7V3-U0BDS53JKLH-f383936e2d3f-512" width="100" height="100" /> |
+| **Role** | Full-Stack | Full-Stack | Full-Stack | Full-Stack, DevOps |
+| **GitHub** | [@id1](https://github.com/) | [@id2](https://github.com/) | [@id3](https://github.com/) | [@id4](https://github.com/) |
 
