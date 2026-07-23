@@ -112,7 +112,7 @@ https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
 <img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/b805417f-6a42-4c74-81b2-380bbe536ad9" />
 
 **Celery Worker Metrics**
-<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/b3293485-9a2e-454a-804b-984b2bd0696d" />
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/8ae6409c-2422-4ab9-a4f4-da363150d3eb" />
 
 **Operating Dashboard**
 <img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/8ef02124-29df-409e-a227-b8c8ca3c8ec6" />
