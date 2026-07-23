@@ -121,12 +121,9 @@ Operating Dashboard
 
 # Member
 
-<!-- TODO: 인원수에 맞게 열 추가/삭제. 프로필 사진은 GitHub 아바타 URL 쓰면 편함:
-     https://github.com/깃허브아이디.png -->
-
 | Name | 이윤서 | 이예빈 | 김형수 | 민재헌 |
 | --- | --- | --- | --- | --- |
 | **Profile** | <img src="https://ca.slack-edge.com/T0BDGGPG7V3-U0BD8M7T1LP-e4e7a9f12c60-512" width="100" height="100" /> | <img src="https://ca.slack-edge.com/T0BDGGPG7V3-U0BDRV5DR4Z-e140a3a94114-512" width="100" height="100" /> | <img src="https://ca.slack-edge.com/T0BDGGPG7V3-U0BDN37QH5L-5d3a783c73af-512" width="100" height="100" /> | <img src="https://ca.slack-edge.com/T0BDGGPG7V3-U0BDS53JKLH-f383936e2d3f-512" width="100" height="100" /> |
 | **Role** | Full-Stack | Full-Stack | Full-Stack | Full-Stack, DevOps |
-| **GitHub** | [@yunseol12334]([https://github.com/](https://github.com/yunseol12334)) | [@yeab-in]([https://github.com/](https://github.com/yeab-in)) | [@12314352]([https://github.com/](https://github.com/12314352)) | [@CPRNDL]([https://github.com/](https://github.com/CPRNDL)) |
+| **GitHub** | [@LeeYunseo04](https://github.com/LeeYunseo04) | [@yeab-in](https://github.com/yeab-in) | [@12314352](https://github.com/12314352) | [@CPRNDL](https://github.com/CPRNDL) |
 
