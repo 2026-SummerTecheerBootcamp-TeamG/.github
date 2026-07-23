@@ -108,13 +108,13 @@ https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
 # Monitoring
 
 ### Prometheus & Grafana
-Django Metrics
+**Django Metrics**
 <img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/f8bfe249-7325-479f-a6e7-8720846f7aaa" />
 
-Celery Worker Metrics
+**Celery Worker Metrics**
 <img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/b3293485-9a2e-454a-804b-984b2bd0696d" />
 
-Operating Dashboard
+**Operating Dashboard**
 <img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/8ef02124-29df-409e-a227-b8c8ca3c8ec6" />
 
 <br/>
