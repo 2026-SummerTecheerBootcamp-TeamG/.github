@@ -4,7 +4,7 @@
 
 ### 2026 Techeer Summer BootCamp — TEAM G
 
-**MCP 기반 AI 여행 플래너 에이전트**
+**AI 여행 플래너 에이전트**
 
 </div>
 
@@ -109,7 +109,7 @@ https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
 
 ### Prometheus & Grafana
 **Django Metrics**
-<img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/f8bfe249-7325-479f-a6e7-8720846f7aaa" />
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/b805417f-6a42-4c74-81b2-380bbe536ad9" />
 
 **Celery Worker Metrics**
 <img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/b3293485-9a2e-454a-804b-984b2bd0696d" />
