@@ -6,9 +6,6 @@
 
 **MCP 기반 AI 여행 플래너 에이전트**
 
-<!-- TODO: 온보딩/메인 화면 GIF 또는 대표 배너 이미지 1장 -->
-<!-- <img src="배너.gif" width="80%" /> -->
-
 </div>
 
 <br/>
@@ -29,21 +26,15 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 - **일정 에이전트**: 동선을 고려한 일자별 방문 순서 최적화 (Google Places)
 - **대화형 수정**: "둘째 날 일정 좀 여유롭게 바꿔줘" — 대화로 일정 편집
 
-<!-- TODO: 배포 URL 생기면 여기에 -->
 **Service URL**
 https://www.tripcanvas.cloud/
-<!-- TODO: Medium/기술 블로그 회고 글 링크 -->
+
 **Medium**
 https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
 
 <br/>
 
 # Demo
-
-<!-- TODO: 전체 데모 영상 — YouTube 링크 또는 GIF
-     YouTube면: [![Demo Video](썸네일URL)](유튜브URL) -->
-
-[![Demo Video](https://youtube.com)](https://youtu.be/Z-1bDFG2Alw)
 
 <br/>
 
@@ -54,14 +45,10 @@ https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
 <img width="1228" height="991" alt="image" src="https://github.com/user-attachments/assets/08e6d70a-0715-408a-88f9-6be6a522a1b5" />
 <img width="1228" height="991" alt="image" src="https://github.com/user-attachments/assets/9f5834cc-f563-4ddb-9103-d5541cc50ec9" />
 
-<!-- TODO: 스크린샷 2~3장 (가로로 나란히 두려면 <img width="32%"> 반복) -->
-
 <br/>
 
 ### 여행 계획 요청 (자연어 입력)
 <img width="1228" height="960" alt="image" src="https://github.com/user-attachments/assets/de609f4a-0e22-471d-80f6-8bf28861dada" />
-
-<!-- TODO: 스크린샷 -->
 
 <br/>
 
@@ -70,14 +57,10 @@ https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
 <img width="1219" height="991" alt="image" src="https://github.com/user-attachments/assets/c3de2306-2634-43af-ac6e-457eb53c9d79" />
 <img width="1210" height="990" alt="image" src="https://github.com/user-attachments/assets/26ad0527-7e46-42e3-be94-77e4969e3b54" />
 
-<!-- TODO: 스크린샷 -->
-
 <br/>
 
 ### 대화형 일정 수정
 <img width="1228" height="3004" alt="image" src="https://github.com/user-attachments/assets/29af2dff-b4a0-479e-bcfc-2ba0ac14393f" />
-
-<!-- TODO: 스크린샷 -->
 
 <br/>
 
@@ -87,15 +70,11 @@ https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
 <img width="1219" height="989" alt="image" src="https://github.com/user-attachments/assets/0a73b174-4243-44be-83ac-5edd7782a3e5" />
 <img width="1216" height="989" alt="image" src="https://github.com/user-attachments/assets/a4ec8ee7-416f-459e-9f21-fca5ca565998" />
 
-<!-- TODO: 스크린샷 -->
-
 <br/>
 <br/>
 
 # API
 <img width="1920" height="3445" alt="image" src="https://github.com/user-attachments/assets/4ffb1145-0ab6-4b45-9142-c45d8886ed2c" />
-
-<!-- TODO: Swagger/API 명세 캡처 이미지 2~4장 -->
 
 <br/>
 <br/>
@@ -103,15 +82,11 @@ https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
 # System Architecture
 <img width="1236" height="837" alt="image" src="https://github.com/user-attachments/assets/93ee7ddb-138b-456d-8fc8-65e37caf2158" />
 
-<!-- TODO: 아키텍처 다이어그램 1장 -->
-
 <br/>
 <br/>
 
 # ERD
 <img width="1581" height="708" alt="image" src="https://github.com/user-attachments/assets/ef38a474-998a-4ebb-8440-2c358e48301b" />
-
-<!-- TODO: ERD 이미지 1장 -->
 
 <br/>
 <br/>
@@ -142,14 +117,6 @@ Celery Worker Metrics
 Operating Dashboard
 <img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/8ef02124-29df-409e-a227-b8c8ca3c8ec6" />
 
-<!-- TODO: Django Metrics 대시보드 캡처 -->
-
-<!-- TODO: Celery Worker Metrics 대시보드 캡처 -->
-
-<!-- ### Jaeger (Distributed Tracing) -->
-
-<!-- TODO: 에이전트 파이프라인 trace 캡처 — 우리 프로젝트 차별점이라 섹션 분리 -->
-
 <br/>
 
 # Member
@@ -161,5 +128,5 @@ Operating Dashboard
 | --- | --- | --- | --- | --- |
 | **Profile** | <img src="https://ca.slack-edge.com/T0BDGGPG7V3-U0BD8M7T1LP-e4e7a9f12c60-512" width="100" height="100" /> | <img src="https://ca.slack-edge.com/T0BDGGPG7V3-U0BDRV5DR4Z-e140a3a94114-512" width="100" height="100" /> | <img src="https://ca.slack-edge.com/T0BDGGPG7V3-U0BDN37QH5L-5d3a783c73af-512" width="100" height="100" /> | <img src="https://ca.slack-edge.com/T0BDGGPG7V3-U0BDS53JKLH-f383936e2d3f-512" width="100" height="100" /> |
 | **Role** | Full-Stack | Full-Stack | Full-Stack | Full-Stack, DevOps |
-| **GitHub** | [@id1](https://github.com/) | [@id2](https://github.com/) | [@id3](https://github.com/) | [@id4](https://github.com/) |
+| **GitHub** | [@id1]([https://github.com/](https://github.com/yunseol12334)) | [@id2]([https://github.com/](https://github.com/yeab-in)) | [@id3]([https://github.com/](https://github.com/12314352)) | [@id4]([https://github.com/](https://github.com/CPRNDL)) |
 
