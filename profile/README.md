@@ -70,6 +70,7 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 <img width="1228" height="2841" alt="image" src="https://github.com/user-attachments/assets/a287bb76-7158-48de-9fe8-290b0aec8333" />
 <img width="1219" height="989" alt="image" src="https://github.com/user-attachments/assets/0a73b174-4243-44be-83ac-5edd7782a3e5" />
 <img width="1216" height="989" alt="image" src="https://github.com/user-attachments/assets/a4ec8ee7-416f-459e-9f21-fca5ca565998" />
+<img width="1228" height="1368" alt="image" src="https://github.com/user-attachments/assets/a486bb0d-56d2-4e98-8f05-496d8b906b8a" />
 
 <!-- TODO: 스크린샷 -->
 
@@ -113,7 +114,14 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 # Monitoring
 
 ### Prometheus & Grafana
-<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/7bc5064a-f72e-4d0f-abb5-9cc49a2e2bb1" />
+Django Metrics
+<img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/f8bfe249-7325-479f-a6e7-8720846f7aaa" />
+
+Celery Worker Metrics
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/b3293485-9a2e-454a-804b-984b2bd0696d" />
+
+Operating Dashboard
+<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/8ef02124-29df-409e-a227-b8c8ca3c8ec6" />
 
 <!-- TODO: Django Metrics 대시보드 캡처 -->
 
