@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗺️ TripCanvas
+# TripCanvas
 
 ### 2026 Techeer Summer BootCamp — TEAM G
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-# 📖 Introduction
+# Introduction
 
 > **"일본 후쿠오카 3박4일, 성인 1명, 쇼핑 중심으로 예산 80만 원"** — 한 문장이면 충분합니다.
 
@@ -21,7 +21,7 @@
 Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 역할별 에이전트가 협업하여 맞춤형 여행 일정을 완성합니다.
 
-### ✨ 핵심 기능
+### 핵심 기능
 
 - **자연어 → 여행 계획**: 목적지 · 기간 · 테마 · 예산을 문장에서 파싱해 구조화
 - **항공 에이전트**: 예산 내 최적 항공편 탐색 (Google Flights)
@@ -30,13 +30,13 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 - **대화형 수정**: "둘째 날 일정 좀 여유롭게 바꿔줘" — 대화로 일정 편집
 
 <!-- TODO: 배포 URL 생기면 여기에 -->
-🔗 **Service**: https://www.tripcanvas.cloud/
+**Service**: https://www.tripcanvas.cloud/
 <!-- TODO: Medium/기술 블로그 회고 글 링크 -->
-📝 **Medium**: https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
+**Medium**: https://medium.com/@1231435e/trip-canvas-a978aac9cc4b?postPublishedType=repub
 
 <br/>
 
-# 🎬 Demo
+# Demo
 
 <!-- TODO: 전체 데모 영상 — YouTube 링크 또는 GIF
      YouTube면: [![Demo Video](썸네일URL)](유튜브URL) -->
@@ -59,25 +59,25 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 
 <br/>
 
-# 🔌 API
+# API
 
 <!-- TODO: Swagger/API 명세 캡처 이미지 2~4장 -->
 
 <br/>
 
-# 🏗️ System Architecture
+# System Architecture
 
 <!-- TODO: 아키텍처 다이어그램 1장 -->
 
 <br/>
 
-# 🗄️ ERD
+# ERD
 
 <!-- TODO: ERD 이미지 1장 -->
 
 <br/>
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 | 분야 | 기술 |
 | --- | --- |
@@ -93,7 +93,7 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 
 <br/>
 
-# 📊 Monitoring
+# Monitoring
 
 ### Prometheus & Grafana
 
@@ -107,7 +107,7 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 
 <br/>
 
-# 👥 Member
+# Member
 
 <!-- TODO: 인원수에 맞게 열 추가/삭제. 프로필 사진은 GitHub 아바타 URL 쓰면 편함:
      https://github.com/깃허브아이디.png -->
