@@ -41,6 +41,12 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 <!-- TODO: 전체 데모 영상 — YouTube 링크 또는 GIF
      YouTube면: [![Demo Video](썸네일URL)](유튜브URL) -->
 
+[![Demo Video]https://youtu.be/Z-1bDFG2Alw]
+
+<br/>
+
+
+
 ### 메인 페이지
 <img width="1228" height="2748" alt="image" src="https://github.com/user-attachments/assets/62b768b8-a663-4d01-9cc6-55aca13bbc3d" />
 <img width="1228" height="991" alt="image" src="https://github.com/user-attachments/assets/08e6d70a-0715-408a-88f9-6be6a522a1b5" />
@@ -48,10 +54,14 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 
 <!-- TODO: 스크린샷 2~3장 (가로로 나란히 두려면 <img width="32%"> 반복) -->
 
+<br/>
+
 ### 여행 계획 요청 (자연어 입력)
 <img width="1228" height="960" alt="image" src="https://github.com/user-attachments/assets/de609f4a-0e22-471d-80f6-8bf28861dada" />
 
 <!-- TODO: 스크린샷 -->
+
+<br/>
 
 ### 일정 생성 결과
 <img width="1228" height="3147" alt="image" src="https://github.com/user-attachments/assets/4cf79525-cf5e-413a-ac38-5ba8ad3d8a01" />
@@ -60,20 +70,24 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 
 <!-- TODO: 스크린샷 -->
 
+<br/>
+
 ### 대화형 일정 수정
 <img width="1228" height="3004" alt="image" src="https://github.com/user-attachments/assets/29af2dff-b4a0-479e-bcfc-2ba0ac14393f" />
 
 <!-- TODO: 스크린샷 -->
 
+<br/>
+
 ### 마이페이지
-<img width="1229" height="1810" alt="image" src="https://github.com/user-attachments/assets/4000cc31-2eff-4ed8-a8ec-3096fe4210e8" />
+<img width="1228" height="1368" alt="image" src="https://github.com/user-attachments/assets/a486bb0d-56d2-4e98-8f05-496d8b906b8a" />
 <img width="1228" height="2841" alt="image" src="https://github.com/user-attachments/assets/a287bb76-7158-48de-9fe8-290b0aec8333" />
 <img width="1219" height="989" alt="image" src="https://github.com/user-attachments/assets/0a73b174-4243-44be-83ac-5edd7782a3e5" />
 <img width="1216" height="989" alt="image" src="https://github.com/user-attachments/assets/a4ec8ee7-416f-459e-9f21-fca5ca565998" />
-<img width="1228" height="1368" alt="image" src="https://github.com/user-attachments/assets/a486bb0d-56d2-4e98-8f05-496d8b906b8a" />
 
 <!-- TODO: 스크린샷 -->
 
+<br/>
 <br/>
 
 # API
@@ -82,6 +96,7 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 <!-- TODO: Swagger/API 명세 캡처 이미지 2~4장 -->
 
 <br/>
+<br/>
 
 # System Architecture
 <img width="1236" height="837" alt="image" src="https://github.com/user-attachments/assets/93ee7ddb-138b-456d-8fc8-65e37caf2158" />
@@ -89,12 +104,14 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 <!-- TODO: 아키텍처 다이어그램 1장 -->
 
 <br/>
+<br/>
 
 # ERD
 <img width="1581" height="708" alt="image" src="https://github.com/user-attachments/assets/ef38a474-998a-4ebb-8440-2c358e48301b" />
 
 <!-- TODO: ERD 이미지 1장 -->
 
+<br/>
 <br/>
 
 # Tech Stack
