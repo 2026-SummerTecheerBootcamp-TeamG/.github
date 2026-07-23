@@ -42,21 +42,31 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
      YouTube면: [![Demo Video](썸네일URL)](유튜브URL) -->
 
 ### 메인 페이지
-<img width="1920" height="2763" alt="image" src="https://github.com/user-attachments/assets/1865207c-95ba-4a3f-88c9-58c551e843fc" />
+<img width="1920" height="2763" alt="image" src="https://github.com/user-attachments/assets/cb92a468-9df7-493f-aef7-fd20dc087a3e" />
 
 <!-- TODO: 스크린샷 2~3장 (가로로 나란히 두려면 <img width="32%"> 반복) -->
 
 ### 여행 계획 요청 (자연어 입력)
-<img width="1920" height="1452" alt="image" src="https://github.com/user-attachments/assets/229ca468-040a-4d65-bb25-34d580325bbd" />
+<img width="1228" height="960" alt="image" src="https://github.com/user-attachments/assets/de609f4a-0e22-471d-80f6-8bf28861dada" />
 
 <!-- TODO: 스크린샷 -->
 
 ### 일정 생성 결과
-<img width="1920" height="3653" alt="image" src="https://github.com/user-attachments/assets/0b8a8d72-3f5d-4230-a678-ab9a441462af" />
+<img width="1228" height="3147" alt="image" src="https://github.com/user-attachments/assets/4cf79525-cf5e-413a-ac38-5ba8ad3d8a01" />
+<img width="1219" height="991" alt="image" src="https://github.com/user-attachments/assets/c3de2306-2634-43af-ac6e-457eb53c9d79" />
+<img width="1210" height="990" alt="image" src="https://github.com/user-attachments/assets/26ad0527-7e46-42e3-be94-77e4969e3b54" />
 
 <!-- TODO: 스크린샷 -->
 
 ### 대화형 일정 수정
+<img width="1228" height="3004" alt="image" src="https://github.com/user-attachments/assets/29af2dff-b4a0-479e-bcfc-2ba0ac14393f" />
+
+<!-- TODO: 스크린샷 -->
+
+### 마이페이지
+<img width="1229" height="1810" alt="image" src="https://github.com/user-attachments/assets/4000cc31-2eff-4ed8-a8ec-3096fe4210e8" />
+<img width="1228" height="2841" alt="image" src="https://github.com/user-attachments/assets/a287bb76-7158-48de-9fe8-290b0aec8333" />
+<img width="1219" height="989" alt="image" src="https://github.com/user-attachments/assets/0a73b174-4243-44be-83ac-5edd7782a3e5" />
 
 <!-- TODO: 스크린샷 -->
 
