@@ -42,7 +42,9 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
      YouTube면: [![Demo Video](썸네일URL)](유튜브URL) -->
 
 ### 메인 페이지
-<img width="1920" height="2763" alt="image" src="https://github.com/user-attachments/assets/cb92a468-9df7-493f-aef7-fd20dc087a3e" />
+<img width="1228" height="2748" alt="image" src="https://github.com/user-attachments/assets/62b768b8-a663-4d01-9cc6-55aca13bbc3d" />
+<img width="1228" height="991" alt="image" src="https://github.com/user-attachments/assets/08e6d70a-0715-408a-88f9-6be6a522a1b5" />
+<img width="1228" height="991" alt="image" src="https://github.com/user-attachments/assets/9f5834cc-f563-4ddb-9103-d5541cc50ec9" />
 
 <!-- TODO: 스크린샷 2~3장 (가로로 나란히 두려면 <img width="32%"> 반복) -->
 
