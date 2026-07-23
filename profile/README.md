@@ -69,24 +69,28 @@ Claude가 MCP를 통해 여러 여행 서비스를 도구처럼 연결하고,
 <img width="1229" height="1810" alt="image" src="https://github.com/user-attachments/assets/4000cc31-2eff-4ed8-a8ec-3096fe4210e8" />
 <img width="1228" height="2841" alt="image" src="https://github.com/user-attachments/assets/a287bb76-7158-48de-9fe8-290b0aec8333" />
 <img width="1219" height="989" alt="image" src="https://github.com/user-attachments/assets/0a73b174-4243-44be-83ac-5edd7782a3e5" />
+<img width="1216" height="989" alt="image" src="https://github.com/user-attachments/assets/a4ec8ee7-416f-459e-9f21-fca5ca565998" />
 
 <!-- TODO: 스크린샷 -->
 
 <br/>
 
 # API
+<img width="1920" height="3445" alt="image" src="https://github.com/user-attachments/assets/4ffb1145-0ab6-4b45-9142-c45d8886ed2c" />
 
 <!-- TODO: Swagger/API 명세 캡처 이미지 2~4장 -->
 
 <br/>
 
 # System Architecture
+<img width="1236" height="837" alt="image" src="https://github.com/user-attachments/assets/93ee7ddb-138b-456d-8fc8-65e37caf2158" />
 
 <!-- TODO: 아키텍처 다이어그램 1장 -->
 
 <br/>
 
 # ERD
+<img width="1581" height="708" alt="image" src="https://github.com/user-attachments/assets/ef38a474-998a-4ebb-8440-2c358e48301b" />
 
 <!-- TODO: ERD 이미지 1장 -->
 
